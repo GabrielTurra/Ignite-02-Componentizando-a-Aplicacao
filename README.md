@@ -14,7 +14,7 @@
 
 <h2 align="left" id="preview">💻 Preview </h2>
 <p>Clique na imagem abaixo e acesse uma prévia da aplicação diretamente na hospedagem da Vercel</p>
-<a target="_blank" href="https://ignite-desafio-01-conceitos-do-react.vercel.app"><img src="./.github/logo-watchme.jpg" /></a>
+<a target="_blank" href="https://ignite-desafio-02-componentizando-a-aplicacao.vercel.app"><img src="./.github/logo-watchme.jpg" /></a>
 
 <h2 align="left" id="technologies">📐 Tecnologias </h2>
 
